@@ -1,0 +1,67 @@
+body
+{
+    margin: 0 200px 0 200px;
+}
+#navbar
+{
+	margin-top: 0;
+}
+#logo
+{
+    float: left;
+}
+#navbar ul
+{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    background-color:grey;
+}
+#navbar a
+{
+    text-decoration: none;
+    text-align: center;
+	color:black;
+    padding:30px 0 0 100px;
+    display:block;
+    padding-bottom: 0;
+}
+li
+{
+    float:left;
+}
+.clear
+{
+    clear:both;
+}
+#img{
+	width: 50%;
+	padding-top: 50px;
+	height: 100vh;
+	background: url("snow.gif") no-repeat;
+	color: white;
+	float: left;
+}
+#features{
+	margin: 0px 100px 0 100px;
+	background-color: white;
+	color: black;
+	height: 400px;
+	padding: 20px;
+}
+#welcome{
+	background-color:#ecd9c6;
+	float: left;
+	width: 50%;
+	height:250px;
+}
+#signature{
+	padding-left: 20px;
+	font-weight: italic;
+	float: left;
+}
+#money{
+	background-image: url("money.jpg");
+	height: 509px;
+	
+}

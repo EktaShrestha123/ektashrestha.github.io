@@ -1,0 +1,48 @@
+body
+{
+    margin: 0 200px 0 200px;
+}
+#navbar
+{
+	margin-top: 0;
+}
+#logo
+{
+    float: left;
+}
+#navbar ul
+{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    background-color:grey;
+}
+#navbar a
+{
+    text-align: center;
+	color:black;
+    padding:50px;
+    display:block;
+    padding-bottom: 0;
+}
+li
+{
+    float:left;
+}
+.clear
+{
+    clear:both;
+}
+#finance{
+float:left;
+width:40%;
+padding-left: 50px;
+}
+#saving{
+float:left;
+width:40%;
+padding-left: 50px;
+}
+#account{
+	background-color: #bb99ff;
+}
